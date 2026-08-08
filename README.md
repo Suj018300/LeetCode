@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suj018300/LeetCode/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/Suj018300/LeetCode/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Suj018300/LeetCode/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Suj018300/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
