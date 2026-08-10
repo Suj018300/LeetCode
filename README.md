@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suj018300/LeetCode/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Suj018300/LeetCode/tree/master/0162-find-peak-element) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Suj018300/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Suj018300/LeetCode/tree/master/0162-find-peak-element) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Suj018300/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Suj018300/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
