@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suj018300/LeetCode/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Suj018300/LeetCode/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suj018300/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Suj018300/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,8 +45,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Suj018300/LeetCode/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suj018300/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Suj018300/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Ternary Search
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suj018300/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Suj018300/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Suj018300/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Suj018300/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Suj018300/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
