@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suj018300/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Suj018300/LeetCode/tree/master/0027-remove-element) |
 | [0162-find-peak-element](https://github.com/Suj018300/LeetCode/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/Suj018300/LeetCode/tree/master/0217-contains-duplicate) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suj018300/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suj018300/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/Suj018300/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suj018300/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Suj018300/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Suj018300/LeetCode/tree/master/0217-contains-duplicate) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Suj018300/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
