@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suj018300/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suj018300/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suj018300/LeetCode/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/Suj018300/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Suj018300/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Suj018300/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suj018300/LeetCode/tree/master/0217-contains-duplicate) |
@@ -100,12 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suj018300/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suj018300/LeetCode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Suj018300/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Suj018300/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
