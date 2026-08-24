@@ -3,10 +3,10 @@ class Solution {
 
         int count =0;
         for (int i : nums) {
-            String s = Integer.toString(i);
-            if (s.length() % 2 == 0) {
+            int value = (int)(Math.log10(i)) +1;
+            if (value %2 ==0) {
                 count++;
-            }
+            } 
         }
         return count;
         
