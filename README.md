@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Suj018300/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Suj018300/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Suj018300/LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Suj018300/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Suj018300/LeetCode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Suj018300/LeetCode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,7 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suj018300/LeetCode/tree/master/0169-majority-element) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suj018300/LeetCode/tree/master/0169-majority-element) |
