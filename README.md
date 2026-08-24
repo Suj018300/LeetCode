@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suj018300/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Suj018300/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suj018300/LeetCode/tree/master/0027-remove-element) |
 | [0162-find-peak-element](https://github.com/Suj018300/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Suj018300/LeetCode/tree/master/0217-contains-duplicate) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Suj018300/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suj018300/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Suj018300/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
