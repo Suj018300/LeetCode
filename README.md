@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Suj018300/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suj018300/LeetCode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Suj018300/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Suj018300/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Suj018300/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suj018300/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -111,7 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suj018300/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Suj018300/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suj018300/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suj018300/LeetCode/tree/master/0169-majority-element) |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Suj018300/LeetCode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Suj018300/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Suj018300/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
