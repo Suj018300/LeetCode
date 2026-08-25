@@ -1,13 +1,15 @@
 class Solution {
     public int fib(int n) {
     if (n <= 1) {
-            return n;
-        }
+        return n;
+    }
+    int a =0, b =1;
+    for (int i =2; i<=n; i++) {
+        int temp = b;
+        b = a+b;
+        a = temp;
+    }
+    return b;
 
-        // Recursive case: calculate previous two terms
-        int last = fib(n - 1);    // (N-1)th term
-        int slast = fib(n- 2);   // (N-2)th term
-
-        return last + slast;
     }
 }
